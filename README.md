@@ -1,2 +1,2 @@
 # LIF-model-and-its-variants
-It's mainly about the simulation of some spiking neuron models.
+It's mainly about the simulations of some spiking neuron models.
